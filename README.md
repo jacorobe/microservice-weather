@@ -5,4 +5,7 @@ This microservice operates OpenWeather API to pull JSON information pertaining t
 To request data: Download the application and install all necessary dependncies.  Run the node app using npm start to start the server on localhost:4000.
 
 To recieve data: Access localhost:4000 through a browser to access the necessary information to deploy up-to-date weather statistics in a personal project.
-![UMLdiagram](https://user-images.githubusercontent.com/98423352/220260100-58c9bd30-71e7-4dee-ac8f-8c22fa32819a.png)
+
+UML Diagram 
+
+![UMLdiagram (1)](https://user-images.githubusercontent.com/98423352/220260890-e95f5151-d243-4b5f-b7a8-a8600f798155.png)
